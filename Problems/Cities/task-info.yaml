@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    user_city = "Istanbul"
+
+    def change_city(new_user_city):
+        user_city = new_user_city
+
+    change_city("Paris")
+    print(user_city)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6344#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 23 Jan 2021 07:47:12 UTC
+record: -1

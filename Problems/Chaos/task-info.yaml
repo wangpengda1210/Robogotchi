@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    print("45/9 + 16*(5 + 8)")
+    print(mathematics)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8310#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 25 Jan 2021 00:56:27 UTC
+record: -1

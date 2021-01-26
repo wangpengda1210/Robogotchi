@@ -1,0 +1,9 @@
+def check_w_letter(word):
+    if "w" in word:
+        raise WordError
+    else:
+        return word
+
+
+class WordError(Exception):
+    pass
